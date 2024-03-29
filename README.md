@@ -21,7 +21,7 @@ First of all. You have to run the commands update and upgrade in your Fedora, so
     sudo dnf install -y @development-tools  
     sudo dnf install -y kernel-headers kernel-devel dkms elfutils-libelf-devel qt5-qtx11extras
 
-3.- **Add VirtualBox RPM repository in yum.repos.d**
+3.- **Install more tools**
     
     
     
