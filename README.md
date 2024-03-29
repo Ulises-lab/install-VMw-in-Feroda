@@ -43,7 +43,7 @@ First of all. You have to run the commands update and upgrade in your Fedora, so
      gpgkey=https://www.virtualbox.org/download/oracle_vbox_2016.asc 
     EOF
      
-*In my case I'm using Fedora **35**, so you have to change it in the variable **baseurl** and check what architecture are you using, in my case is x86_64* 
+*In my case I'm using Fedora **35**, so you have to change it in the variable **baseurl** and check what architecture are you using, in my case is x86_64 and also here you are the webpage to check the URL to download the specific VirtualBox RPM to Fedora* 
 
 3.- **Import gpgkey**
 
