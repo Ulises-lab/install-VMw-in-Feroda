@@ -1,7 +1,7 @@
 # install-VirtualBox-on-Feroda
 
 
-## In this section I would like to show you how can you install VirtualBox in your Fedora system trhough CLI...
+## In this section I would like to show you how you can install VirtualBox in your Fedora system trhough CLI...
 
 
 **Let's start!**
